@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_11", "Lesson_11\Lesson_11.csproj", "{FB13623B-297A-48CD-A5D5-7AD92A70125E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String_methods", "String_methods\String_methods.csproj", "{6616A071-9BC2-44E0-97C7-6D54A5361F5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split", "Split\Split.csproj", "{4C58FDCE-3C85-4FB3-A744-78D291F4B711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB13623B-297A-48CD-A5D5-7AD92A70125E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB13623B-297A-48CD-A5D5-7AD92A70125E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB13623B-297A-48CD-A5D5-7AD92A70125E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB13623B-297A-48CD-A5D5-7AD92A70125E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6616A071-9BC2-44E0-97C7-6D54A5361F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6616A071-9BC2-44E0-97C7-6D54A5361F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6616A071-9BC2-44E0-97C7-6D54A5361F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6616A071-9BC2-44E0-97C7-6D54A5361F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C58FDCE-3C85-4FB3-A744-78D291F4B711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C58FDCE-3C85-4FB3-A744-78D291F4B711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C58FDCE-3C85-4FB3-A744-78D291F4B711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C58FDCE-3C85-4FB3-A744-78D291F4B711}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D862C60-8F34-492F-A157-8C3FD8632785}
+	EndGlobalSection
+EndGlobal

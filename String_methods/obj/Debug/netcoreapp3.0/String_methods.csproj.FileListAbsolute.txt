@@ -1,0 +1,11 @@
+C:\Users\opilane\projects\Lesson_11\String_methods\bin\Debug\netcoreapp3.0\String_methods.exe
+C:\Users\opilane\projects\Lesson_11\String_methods\bin\Debug\netcoreapp3.0\String_methods.deps.json
+C:\Users\opilane\projects\Lesson_11\String_methods\bin\Debug\netcoreapp3.0\String_methods.runtimeconfig.json
+C:\Users\opilane\projects\Lesson_11\String_methods\bin\Debug\netcoreapp3.0\String_methods.runtimeconfig.dev.json
+C:\Users\opilane\projects\Lesson_11\String_methods\bin\Debug\netcoreapp3.0\String_methods.dll
+C:\Users\opilane\projects\Lesson_11\String_methods\bin\Debug\netcoreapp3.0\String_methods.pdb
+C:\Users\opilane\projects\Lesson_11\String_methods\obj\Debug\netcoreapp3.0\String_methods.csprojAssemblyReference.cache
+C:\Users\opilane\projects\Lesson_11\String_methods\obj\Debug\netcoreapp3.0\String_methods.AssemblyInfoInputs.cache
+C:\Users\opilane\projects\Lesson_11\String_methods\obj\Debug\netcoreapp3.0\String_methods.AssemblyInfo.cs
+C:\Users\opilane\projects\Lesson_11\String_methods\obj\Debug\netcoreapp3.0\String_methods.dll
+C:\Users\opilane\projects\Lesson_11\String_methods\obj\Debug\netcoreapp3.0\String_methods.pdb

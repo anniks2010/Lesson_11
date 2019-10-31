@@ -1,0 +1,11 @@
+C:\Users\opilane\projects\Lesson_11\Split\bin\Debug\netcoreapp3.0\Split.exe
+C:\Users\opilane\projects\Lesson_11\Split\bin\Debug\netcoreapp3.0\Split.deps.json
+C:\Users\opilane\projects\Lesson_11\Split\bin\Debug\netcoreapp3.0\Split.runtimeconfig.json
+C:\Users\opilane\projects\Lesson_11\Split\bin\Debug\netcoreapp3.0\Split.runtimeconfig.dev.json
+C:\Users\opilane\projects\Lesson_11\Split\bin\Debug\netcoreapp3.0\Split.dll
+C:\Users\opilane\projects\Lesson_11\Split\bin\Debug\netcoreapp3.0\Split.pdb
+C:\Users\opilane\projects\Lesson_11\Split\obj\Debug\netcoreapp3.0\Split.csprojAssemblyReference.cache
+C:\Users\opilane\projects\Lesson_11\Split\obj\Debug\netcoreapp3.0\Split.AssemblyInfoInputs.cache
+C:\Users\opilane\projects\Lesson_11\Split\obj\Debug\netcoreapp3.0\Split.AssemblyInfo.cs
+C:\Users\opilane\projects\Lesson_11\Split\obj\Debug\netcoreapp3.0\Split.dll
+C:\Users\opilane\projects\Lesson_11\Split\obj\Debug\netcoreapp3.0\Split.pdb
